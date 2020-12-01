@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ChaitanyaGadde/full-stack-js.git#readme",
   "dependencies": {
     "babel-eslint": "^10.1.0",
+    "ejs": "^3.1.5",
     "eslint": "^7.14.0",
     "eslint-plugin-react": "^7.21.5",
     "express": "^4.17.1",
